@@ -1,0 +1,26 @@
+# Mandatory items:
+
+[general]
+name=decoupeur
+qgisMinimumVersion=2.18.0
+category=Tools
+description=Interface diagsnotic couches QGIS
+version=0.0.1
+
+
+# Optional items:
+
+changelog: 0.0.1   First version for QGIS 2.18.x
+
+tags= Tools, Sample Interface - Python 4 QGIS
+homepage=none
+tracker=none
+repository=none
+icon=icons/decoupeur.png 
+experimental=True
+deprecated=False
+
+# Author contact information
+author=Jean-Christophe Baudin
+email=jeanchristophebaudin@ymail.com
+class_name=Morphometreur!
